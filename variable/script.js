@@ -16,3 +16,11 @@ let namaBelakang = "Ireng";
 }
 
 console.log(namaBelakang);
+
+var namaTengah = "Ganteng";
+{
+    var namaTengah = "Ideng";
+    console.log(namaTengah);
+}
+
+console.log(namaTengah);

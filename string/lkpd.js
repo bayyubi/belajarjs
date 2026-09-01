@@ -25,3 +25,23 @@
 //let kelas = 'XII RPL 1';
 //let biodataTL = `Nama: ${nama} Kelas: ${kelas} Sekolah: SMK Harapan Bangsa`;
 //console.log(biodataTL);
+
+//! TUGAS MANDIRI
+
+//let alamat = "Rumah saya beralamat di Jl. Merdeka No. 17,\nRT 03/RW 05"; //! 1
+//console.log(alamat);
+
+//let pathFolder = "D:\\ubi\\belajarjs\\string\\lkpd.js"; //! 2
+//console.log(pathFolder);
+
+
+//let kalimat = "Ani berkata: \"Saya akan lulus tahun ini.\""; //! 3
+//console.log(kalimat);
+
+let namaSiswa = "Ubay";
+let kelasSiswa = "XII RPL 1";
+let hobiSiswa = "Mempelajari Hal Baru";
+let biodataBaru = `Nama: ${namaSiswa}
+Kelas: ${kelasSiswa}
+Hobi: ${hobiSiswa}`;
+console.log(biodataBaru);

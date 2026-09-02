@@ -16,6 +16,6 @@ let namaDepan = "Ubay";
 let namaBelakang = "Rafi";
 let umur = 7;
 let namaLengkap = umur + " " + namaDepan + " " + namaBelakang;
-console.log(namaLengkap);
 let biodata = `nama: ${namaDepan}, umur: ${umur}`;
+console.log(namaLengkap);
 console.log(biodata);

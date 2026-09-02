@@ -1,3 +1,7 @@
+let dataString = "data string";
+console.log(dataString);
+
+//? Escaping String
 let data1 = 'Ubay \tberkata "Apa Kabar dunia?"';
 console.log(data1);
 let data2 = "Bayu berkata \"Tidak baik-baik saja\"";

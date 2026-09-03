@@ -6,7 +6,7 @@ let data1 = 'Ubay \tberkata "Apa Kabar dunia?"';
 console.log(data1);
 let data2 = "Bayu berkata \"Tidak baik-baik saja\"";
 console.log(data2);
-let data3 = "Ubay berjalan-jalan di tepi pantai, \nkereeen";
+let data3 = "Ubay berjalan-jalan di tepi pantai, \nkereen";
 console.log(data3);
 let data4 = 'Saya ingin masuk SMK\n"Pilihan sekolah SMKN 8"';
 console.log(data4);

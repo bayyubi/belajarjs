@@ -20,3 +20,12 @@ console.log(namaLengkap.indexOf("a")); //? 7
 let namaDepan = "Bayu";
 let namaBelakang = "Yuba";
 console.log(namaDepan.concat(" ", namaBelakang)); //? Bayu Yuba
+
+//! Memotong Kata
+
+let kata1 = "Belajar JavaScript";
+console.log(kata1.substring(5, 12)); //? ar Java
+
+//! Slice
+let kata2 = "Bayu Belajar JavaScript";
+console.log(kata2.slice(5, 12)); //? Belajar

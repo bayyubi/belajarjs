@@ -1,7 +1,7 @@
 //! lowercase
-let nama1 = "BAYU YUBI";
-console.log(nama1.toLowerCase()); //? bayu yubi
+let nama1 = "Belajar JAVASCRIPT";
+console.log(nama1.toLowerCase()); //? belajar javascript
 
 //! uppercase
-let nama2 = "bayu yubi";
-console.log(nama2.toUpperCase()); //? BAYU YUBI
+nama = "BELAJAR javascript";
+console.log(nama.toUpperCase()); //? BELAJAR JAVASCRIPT 

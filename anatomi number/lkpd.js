@@ -30,9 +30,11 @@
 //console.log(nilai.toFixed(2));
 
 //! Kegiatan 4
-let harga = "15000 Rupiah";
-let jumlah = "7 barang";
-let diskon = 1;
+let harga = 15000;
+let jumlah = 7;
 
-let bayar = parseInt(harga) * (parseInt(jumlah) * diskon);
-console.log(bayar)
+let total = harga * jumlah;
+let diskon = total * 0.1;
+let bayar = total - diskon;
+
+console.log("Total yang harus dibayar: Rp" + bayar);
